@@ -1,0 +1,10 @@
+body {
+    padding-top: 5rem;
+}
+
+@media (min-width: 768px) {
+    .ofertas-input {
+        width: 50%;
+    }
+}
+        
